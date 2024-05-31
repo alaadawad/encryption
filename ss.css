@@ -1,0 +1,38 @@
+#app{
+    width: 100%;
+    max-width: 100%;
+}
+#app p{
+    width: 100%;
+    padding: 14px;
+    background:linear-gradient(red,black) ;
+    color: aliceblue;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+#app textarea{
+    width: 100%;
+    position: 2PX solid rgb(138,138,138);
+    outline: none;
+    border-radius: 14px;
+    min-height: 140px;
+}
+#app select{
+    width: 100%;
+    padding: 14px;
+    border-radius: 14px;
+    margin-bottom: 14px;
+}
+#select{
+    background:linear-gradient(red,black) ;
+    color: aliceblue;
+}
+#en{
+    background:black ;
+
+}
+#de{
+    background:black ;
+
+}
